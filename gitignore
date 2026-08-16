@@ -1,0 +1,9 @@
+# Local password vault - never commit real saved passwords
+passveyra_vault.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor settings
+.vscode/
