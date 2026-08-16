@@ -52,3 +52,5 @@ This is a portfolio/learning project, not a production password manager. Saved p
 ## 👤 Author
 
 Built by Ansharah.
+
+If you found this useful, consider giving it a ⭐ — it helps a lot!
