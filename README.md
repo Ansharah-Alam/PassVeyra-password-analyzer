@@ -40,9 +40,9 @@ python passveyra.py
 
 ```
 passveyra/
-├── passveyra.py     # main application
+├── Passveyra_password_strength_analyzer.py     # main application
 ├── README.md
-└── .gitignore        # excludes the local vault file from version control
+└── .gitignore        
 ```
 
 ## 🛡️ Security note
