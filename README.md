@@ -33,7 +33,7 @@ Requires Python 3.x with Tkinter (included by default on most systems).
 ## 🚀 Usage
 
 ```
-python passveyra.py
+python Passveyra_password_strength_analyzer.py
 ```
 
 ## 🗂️ Project structure
