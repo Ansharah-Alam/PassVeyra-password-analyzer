@@ -1,6 +1,7 @@
 # PassVeyra — Password Strength Analyzer
 
 A desktop app that checks how strong your password is in real time, suggests improvements, generates a strong one for you, and saves it for later.
+<img width="1920" height="1015" alt="Dashbord" src="https://github.com/user-attachments/assets/91991368-eb41-424c-9385-1936ef3d4f77" />
 
 ## 🔐 Features
 
